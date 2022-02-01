@@ -1,10 +1,19 @@
 # Analyse Mathématique
 
-Mathematical analysis by Yu Pin, 1001 pages
+Mathematical analysis by Yu Pin
 
 
-l'Analyse Mathématique 1, 2, 3 de Yu Pin
+L'Analyse Mathématique 1, 2, 3 d'Yu Pin
 
 
-于品的数学分析一二三，共1001页
+于品的数学分析一二三
+
+
+1001 pages in total
+
+
+Il y a 1001 pages
+
+
+共 1001 页
 
