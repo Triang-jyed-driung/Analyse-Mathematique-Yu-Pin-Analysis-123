@@ -3,7 +3,7 @@
 Mathematical Analysis by Yu Pin, which is the manuscirpt for THU's mathematical analysis class.
 
 
-L'Analyse Mathématique 1, 2, 3 d'Yu Pin est le manuel pour la classe analyse mathématique d'Université Tsinghua
+L'Analyse Mathématique 1, 2, 3 par Yu Pin est le manuel pour la classe analyse mathématique d'Université Tsinghua
 
 
 于品的数学分析一二三，清华数学分析课程讲义
