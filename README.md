@@ -1,6 +1,6 @@
 # Analyse Mathématique
 
-Mathematical Analysis by Yu Pin, which is the manuscirpt for THU's Mathematical analysis class.
+Mathematical Analysis by Yu Pin, which is the manuscirpt for THU's mathematical analysis class.
 
 
 L'Analyse Mathématique 1, 2, 3 d'Yu Pin est le manuel pour la classe analyse mathématique d'Université Tsinghua
